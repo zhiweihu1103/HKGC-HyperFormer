@@ -1,2 +1,2 @@
-# HKGC-HyperFormer-
-[CIKM2023] HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion
+# HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion
+The datasets and code will come soon...
