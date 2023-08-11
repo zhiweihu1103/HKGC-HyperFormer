@@ -1,5 +1,5 @@
 # HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion
-#### This repo provides the source code & data of our paper: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion (CIKM2023).
+#### This repo provides the source code & data of our paper: HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion (CIKM2023).
 ## Dependencies
 * conda create -n hyperformer python=3.7 -y
 * PyTorch 1.8.1
