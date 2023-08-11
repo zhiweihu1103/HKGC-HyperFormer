@@ -35,5 +35,16 @@ For other datasets, you only need to modify the following parameters, we used th
 ## Notes
 * When executed conda install "gxx_linux-64<=10" nccl -c conda-forge -y, if you meet the **WARNING conda.core.envs_manager:register_env(50): Unable to register environment. Path not writable or missing.** You should modify write permission to anaconda，e.g., **sudo chown -R hzw /home/amax/anaconda3/**， *hzw* is your username, */home/amax/anaconda3/* is anaconda path. You need see: All requested packages already installed.
 
+## Citation
+If you find this code useful, please consider citing the following paper.
+```
+@article{
+  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and and Ru Li and Jeff Z. Pan},
+  title={HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion},
+  publisher="32nd ACM International Conference on Information and Knowledge Management",
+  year={2023}
+}
+```
+
 ## Acknowledgement
 We refer to the code of [CoLE](https://github.com/nju-websoft/CoLE). Thanks for their contributions.
