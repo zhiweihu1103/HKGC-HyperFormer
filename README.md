@@ -1,6 +1,6 @@
 # HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion
 ## Dependencies
-* conda create -n ourformer python=3.7 -y
+* conda create -n hyperformer python=3.7 -y
 * PyTorch 1.8.1
 * contiguous_params 1.0.0
 * scipy 1.7.3
