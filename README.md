@@ -33,7 +33,7 @@ For other datasets, you only need to modify the following parameters, we used th
 * **Notes**: If you want to reproduce the results in Table 1, you need to set **--train_mode with_valid**, because all baselines use the validation set in the training process.
 
 ## Notes
-* When executed conda install "gxx_linux-64<=10" nccl -c conda-forge -y, if you meet the **WARNING conda.core.envs_manager:register_env(50): Unable to register environment. Path not writable or missing.** You should modify write permission to anaconda，e.g., **sudo chown -R hzw /home/amax/anaconda3/**， *hzw* is your username, */home/amax/anaconda3/* is anaconda path. You need see: All requested packages already installed.
+* When executed conda install "gxx_linux-64<=10" nccl -c conda-forge -y, if you meet the **WARNING conda.core.envs_manager:register_env(50): Unable to register environment. Path not writable or missing.** You should modify write permission to anaconda，e.g., **sudo chown -R hzw /home/amax/anaconda3/**, *hzw* is your username, */home/amax/anaconda3/* is anaconda path. You need see: All requested packages already installed.
 
 ## Citation
 If you find this code useful, please consider citing the following paper.
