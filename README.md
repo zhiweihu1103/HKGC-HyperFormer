@@ -22,7 +22,7 @@
   * Entities with Low Degree: WD50K_100_1_degree, WD50K_100_2_degree, WD50K_100_3_degree, WD50K_100_4_degree, same as JF17K and Wikipeople.
 
 ### Training model
-Taking the Wikipeople_100 dataset as an example, you can run the following script：
+Taking the WD50K dataset as an example, you can run the following script：
 ```python
 sh run.sh
 ```
