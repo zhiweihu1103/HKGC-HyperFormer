@@ -11,6 +11,7 @@
   * cd fastmoe folder
   * conda install "gxx_linux-64<=10" nccl -c conda-forge -y 
   * pip install -e .
+* If you have problems using MoE, you can directly download the one I use [fastmoe](https://drive.google.com/file/d/1c3ijOe5PacVWyfmD2amUk0dpTbsjIHIS/view?usp=sharing).
 ## Running the code
 ### Dataset
 * Download the datasets from [Here](https://drive.google.com/drive/folders/1FBopRFRe7NS75w3NvzKTW_QyqvgKRyqC?usp=drive_link).
