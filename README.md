@@ -41,7 +41,7 @@ For other datasets, you only need to modify the following parameters, we used th
 If you find this code useful, please consider citing the following paper.
 ```
 @article{
-  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and and Ru Li and Jeff Z. Pan},
+  author={Zhiwei Hu and Víctor Gutiérrez-Basulto and Zhiliang Xiang and Ru Li and Jeff Z. Pan},
   title={HyperFormer: Enhancing Entity and Relation Interaction for Hyper-Relational Knowledge Graph Completion},
   publisher="32nd ACM International Conference on Information and Knowledge Management",
   year={2023}
